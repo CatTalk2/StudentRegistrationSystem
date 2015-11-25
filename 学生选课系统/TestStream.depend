@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1336051806 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\course.cpp
+	"Course.h"
+
+1336051884 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\course.h
+	<string>
+	<iostream>
+
+1334224406 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\date.cpp
+	"Date.h"
+	<iostream>
+
+1334224434 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\date.h
+	<iostream>
+
+1334223796 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1336051934 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\electivecourse.h
+	"Course.h"
+
+1334223266 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1336051969 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\obligatorycourse.h
+	"Course.h"
+
+1336052693 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
+1336052359 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334848306 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\main.cpp
+	"Console.h"
+
+1334878409 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\console.h
+	"Student.h"
+	"Course.h"
+
+1337844479 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\teststream\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+	<typeinfo>
+
+1337844478 source:g:\work\c++课件汇总\teststream\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+	<typeinfo>
+
+1334878408 g:\work\c++课件汇总\teststream\console.h
+	"Student.h"
+	"Course.h"
+
+1336052358 g:\work\c++课件汇总\teststream\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334224434 g:\work\c++课件汇总\teststream\date.h
+	<iostream>
+
+1336051884 g:\work\c++课件汇总\teststream\course.h
+	<string>
+	<iostream>
+
+1336051968 g:\work\c++课件汇总\teststream\obligatorycourse.h
+	"Course.h"
+
+1336051934 g:\work\c++课件汇总\teststream\electivecourse.h
+	"Course.h"
+
+1336051806 source:g:\work\c++课件汇总\teststream\course.cpp
+	"Course.h"
+
+1334224406 source:g:\work\c++课件汇总\teststream\date.cpp
+	"Date.h"
+	<iostream>
+
+1334223796 source:g:\work\c++课件汇总\teststream\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334848306 source:g:\work\c++课件汇总\teststream\main.cpp
+	"Console.h"
+
+1369870840 source:g:\work\c++课件汇总\teststream\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1336052692 source:g:\work\c++课件汇总\teststream\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"ElectiveCourse.h"
+	"ObligatoryCourse.h"
+
